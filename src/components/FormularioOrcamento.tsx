@@ -79,7 +79,7 @@ ${formData.descricao}
 *Solicitação enviada via formulário do site*
     `.trim();
 
-    const whatsappUrl = `https://wa.me/5548998143419?text=${encodeURIComponent(mensagem)}`;
+    const whatsappUrl = `https://wa.me/554820123530?text=${encodeURIComponent(mensagem)}`;
     window.open(whatsappUrl, '_blank');
 
     toast({
